@@ -1,0 +1,79 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VoWCzQEACAAJ",
+      "etag": "NyBTxma4ACI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VoWCzQEACAAJ",
+      "volumeInfo": {
+        "title": "Antemeridiano: Cuentos en una noche extraña",
+        "authors": [
+          "Javier Esteban González Andújar"
+        ],
+        "publisher": "Finales Cerrados Ediciones",
+        "publishedDate": "2020-04-05",
+        "description": "Un libro. Siete cuentos premiados en certámenes nacionales e internacionales: Una manera de doblar el tiempo, dos sustos, un pacto hasta el más allá, una forma de ver el mal a la cara, un deseo concedido, un acercamiento a la inmortalidad, un hallazgo subterráneo, una frecuencia ilegal, un rayo de luz partiendo la tiniebla y las grietas de la realidad profundizándose al voltear cada página. Los cuentos que forman parte de este volumen fueron premiados en los siguientes certámenes literarios: - Premio Platero, organizado por el Club del Libro en Español de las Naciones Unidas en Ginebra, Suiza. - Premio Ciudad de Buenos Aires - Historias y mitos de barrios de Buenos Aires, organizado por la Fundación El Libro y el Gobierno de la Ciudad Autónoma de Buenos Aires, Argentina. - XXXII Premio Félix Francisco Casanova, organizado por el Periódico El Día y el Excelentísimo Cabildo de La Palma en España. - Certamen Miguel Hernández, organizado por la Sociedad de Fomento de la Ciudad de San Martín en la Provincia de Buenos Aires, Argentina. - Certamen Stonberg de Narración Breve, organizado por la Editorial Stonberg de Barcelona, España. - V Concurso Literario El Laurel, creado por la Organización Cultural Ateneu Santfeliuenc de Barcelona, España. - Concurso de Cuentos Fantásticos y de Terror Idus de Marzo, organizado por el Excelentísimo Ayuntamiento de Dos Hermanas en Sevilla, España. - I Concurso Internacional de Relato Corto y Poesía Caños Dorados, organizado por la Asociación Cultural Los Caños Dorados de Fernán Núñez, Córdoba, España.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9872777314"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789872777319"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VoWCzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VoWCzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com.ar/books?id=VoWCzQEACAAJ&dq=isbn:+~+%C2%A9+Javier+E.G.+And%C3%BAjar+%40finalescerrados&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.ar/books?id=VoWCzQEACAAJ&dq=isbn:+~+%C2%A9+Javier+E.G.+And%C3%BAjar+%40finalescerrados&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antemeridiano_Cuentos_en_una_noche_extra.html?hl=&id=VoWCzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "AR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "AR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VoWCzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un libro."
+      }
+    }
+  ]
+}
